@@ -2,7 +2,7 @@
 
 ## 👋 &nbsp; I'm Sukanna Roy
 
-### 👨🏻‍💻 &nbsp;About Me
+### 👨 &nbsp;About Me
 
 #### Highly motivated and enthusiastic Software Developer with experience in Web Development.
 
